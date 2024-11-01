@@ -1,0 +1,32 @@
+[Setup]
+AppName=Ecoute
+AppVersion=1.0
+AppPublisher=France Ross Mendoza Lee
+DefaultDirName={pf}\Ecoute
+DefaultGroupName=Ecoute
+OutputDir=C:\Users\franc\Source\Repos\ecoute\output
+OutputBaseFilename=EcouteInstaller
+Compression=lzma
+SolidCompression=yes
+UninstallDisplayIcon={app}\main.exe
+LicenseFile=C:\Users\franc\Source\Repos\ecoute\LICENSE ; Adjust this path if needed
+
+[Files]
+Source: "C:\Users\franc\Source\Repos\ecoute\dist\main.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\franc\Source\Repos\ecoute\dist\*.pt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\franc\Source\Repos\ecoute\dist\*.npz"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\franc\Source\Repos\ecoute\*.md"; DestDir: "{app}"; Flags: isreadme
+
+[Icons]
+Name: "{group}\Ecoute"; Filename: "{app}\main.exe"; WorkingDir: "{app}"
+Name: "{group}\Uninstall Ecoute"; Filename: "{uninstallexe}"
+
+[UninstallDelete]
+Type: filesandordirs; Name: "{app}"
+
+[Run]
+Filename: "{app}\main.exe"; Description: "Launch Ecoute"; Flags: nowait postinstall
+
+[Registry]
+Root: HKCU; Subkey: "Software\Ecoute"; ValueType: string; ValueName: "InstallPath"; ValueData: "{app}"; Flags: uninsdeletekey
+Root: HKCU; Subkey: "Software\Ecoute"; ValueType: string; ValueName: "Version"; ValueData: "1.0"; Flags: uninsdeletekey

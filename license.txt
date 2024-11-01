@@ -1,0 +1,25 @@
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+By installing, copying, or otherwise using the Translator software, you agree to be bound by the terms of this agreement. If you do not agree to the terms of this agreement, do not install or use the Translator software.
+
+1. LICENSE GRANT
+Translator is licensed, not sold. Subject to the terms of this agreement, France Ross Mendoza Lee grants you a limited, non-exclusive, non-transferable license to install and use a copy of Translator on a single device for personal or internal business purposes.
+
+2. RESTRICTIONS
+You may not reverse engineer, decompile, or disassemble the software.
+You may not rent, lease, lend, sell, redistribute, sublicense, or transfer the software.
+You may not use the software to create derivative works.
+3. COPYRIGHT
+All title, ownership rights, and intellectual property rights in and to the Translator software and any copies thereof are owned by France Ross Mendoza Lee. The software is protected by copyright and other intellectual property laws and treaties.
+
+4. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, in no event shall France Ross Mendoza Lee be liable for any damages arising out of the use or inability to use this software, including but not limited to special, incidental, or consequential damages.
+
+5. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from France Ross Mendoza Lee if you fail to comply with any term of this license. Upon termination of this license, you must cease all use of the software and destroy all copies of the software.
+
+6. GENERAL
+This agreement constitutes the entire agreement between you and France Ross Mendoza Lee regarding the software and supersedes any prior agreements. If any provision of this agreement is held to be unenforceable, it shall not affect the enforceability of the remaining provisions.
+
+BY INSTALLING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS AGREEMENT AND AGREE TO BE BOUND BY ITS TERMS.
+
